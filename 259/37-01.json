@@ -1,9 +1,9 @@
 {
     "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)",
-    "aliquot": 7,
+    "aliquot": 1,
     "analysis_type": "unknown",
     "analyst_name": "",
-    "comment": "L:1",
+    "comment": "L:4",
     "commit": "b69489eb7fffaf43860640e368f037f0f325d830",
     "conditionals": [
         {
@@ -76,9 +76,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Hum. 2",
-                "pub_date": "2018-04-06T08:03:45",
+                "pub_date": "2018-04-06T08:09:13",
                 "title": "Base Station Hum.",
-                "value": 21.4174633026123
+                "value": 21.9997329711914
             },
             {
                 "device": "NOAA",
@@ -122,9 +122,9 @@
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2018-04-06T06:23:40",
+                "pub_date": "2018-04-06T08:08:50",
                 "title": "Coolant",
-                "value": 18.0
+                "value": 18.1
             },
             {
                 "device": "JanMonitor",
@@ -136,9 +136,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 2",
-                "pub_date": "2018-04-06T08:03:51",
+                "pub_date": "2018-04-06T08:08:10",
                 "title": "Base Station Temp.",
-                "value": 77.2401611328125
+                "value": 76.8567691802978
             },
             {
                 "device": "RPiWeather",
@@ -150,7 +150,7 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 4",
-                "pub_date": "2018-04-06T08:02:29",
+                "pub_date": "2018-04-06T08:04:28",
                 "title": "EastReturn02",
                 "value": 68.1116
             },
@@ -186,13 +186,13 @@
     },
     "experiment_queue_name": "Load1864",
     "extraction": "jan_co2_video.py",
-    "identifier": "25941",
+    "identifier": "25937",
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "NM-294",
     "irradiation_level": "L",
-    "irradiation_position": 1,
+    "irradiation_position": 4,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -231,13 +231,13 @@
     "repository_identifier": "Irradiation-NM-294",
     "sample": "FC-2",
     "source": {
-        "emission": 548.4,
-        "trap": 198.483
+        "emission": 548.157,
+        "trap": 198.706
     },
-    "spec_sha": "741b26c1b864a2f1c3e50b727ad8e65e6b8749c3",
-    "timestamp": "2018-04-06T08:04:06.239855",
+    "spec_sha": "9e89f2ffd1fc39e94e98091cf1f94468c6b53290",
+    "timestamp": "2018-04-06T08:09:34.526459",
     "tripped_conditional": null,
     "username": "",
-    "uuid": "d5755a76-f83b-4f0e-b9c1-5a61c014dc20",
+    "uuid": "e294782e-25b3-46c7-a6c0-2d31a76fcf14",
     "whiff_result": null
 }

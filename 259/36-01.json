@@ -3,7 +3,7 @@
     "aliquot": 1,
     "analysis_type": "unknown",
     "analyst_name": "",
-    "comment": "L:4",
+    "comment": "",
     "commit": "b69489eb7fffaf43860640e368f037f0f325d830",
     "conditionals": [
         {
@@ -76,16 +76,16 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Hum. 2",
-                "pub_date": "2018-04-06T08:09:13",
+                "pub_date": "2018-04-06T06:43:33",
                 "title": "Base Station Hum.",
-                "value": 21.9997329711914
+                "value": 21.3830280303955
             },
             {
                 "device": "NOAA",
                 "name": "Outside Humidity",
-                "pub_date": "2018-04-06T07:43:48",
+                "pub_date": "2018-04-06T06:42:20",
                 "title": "",
-                "value": 24.0
+                "value": 28.0
             }
         ],
         "lab_pneumatics": [
@@ -106,25 +106,25 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Pressure",
-                "pub_date": "2018-04-06T07:32:10",
+                "pub_date": "2018-04-06T06:33:33",
                 "title": null,
-                "value": 860.203125
+                "value": 859.402099609375
             }
         ],
         "lab_temperatures": [
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2018-04-06T07:45:01",
+                "pub_date": "2018-04-06T05:09:22",
                 "title": "iServer Temp.",
-                "value": 70.7
+                "value": 69.6
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2018-04-06T08:08:50",
+                "pub_date": "2018-04-06T06:23:40",
                 "title": "Coolant",
-                "value": 18.1
+                "value": 18.0
             },
             {
                 "device": "JanMonitor",
@@ -136,63 +136,63 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 2",
-                "pub_date": "2018-04-06T08:08:10",
+                "pub_date": "2018-04-06T06:36:28",
                 "title": "Base Station Temp.",
-                "value": 76.8567691802978
+                "value": 75.3551441192627
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 3",
-                "pub_date": "2018-04-06T07:44:33",
+                "pub_date": "2018-04-06T06:33:27",
                 "title": "EastDiffuser01",
                 "value": 56.075
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 4",
-                "pub_date": "2018-04-06T08:04:28",
+                "pub_date": "2018-04-06T06:42:08",
                 "title": "EastReturn02",
-                "value": 68.1116
+                "value": 66.9866
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 5",
-                "pub_date": "2018-04-06T07:48:08",
+                "pub_date": "2018-04-06T03:47:57",
                 "title": "iServerCalibration03",
-                "value": 70.3616
+                "value": 69.35
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 6",
-                "pub_date": "2018-04-06T07:30:40",
+                "pub_date": "2018-04-06T04:58:23",
                 "title": "SouthWall04",
-                "value": 67.775
+                "value": 67.4366
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 7",
-                "pub_date": "2018-04-06T08:00:23",
+                "pub_date": "2018-04-06T06:32:56",
                 "title": "SouthWindow05",
-                "value": 64.9616
+                "value": 63.95
             },
             {
                 "device": "NOAA",
                 "name": "Outside Temp",
-                "pub_date": "2018-04-06T08:01:31",
+                "pub_date": "2018-04-06T06:42:20",
                 "title": "Outside Temp.",
-                "value": 56.0
+                "value": 52.0
             }
         ]
     },
     "experiment_queue_name": "Load1864",
     "extraction": "jan_co2_video.py",
-    "identifier": "25942",
+    "identifier": "25936",
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "NM-294",
     "irradiation_level": "L",
-    "irradiation_position": 4,
+    "irradiation_position": 1,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -222,7 +222,7 @@
     "laboratory": "",
     "mass_spectrometer": "Jan",
     "material": "Sanidine",
-    "measurement": "jan_unknown120_20_no_center.py",
+    "measurement": "jan_unknown340_60.py",
     "post_equilibration": "jan_pump_extraction_line.py",
     "post_measurement": "jan_pump_ms.py",
     "principal_investigator": "NMGRL",
@@ -234,10 +234,10 @@
         "emission": 548.157,
         "trap": 198.706
     },
-    "spec_sha": "9e89f2ffd1fc39e94e98091cf1f94468c6b53290",
-    "timestamp": "2018-04-06T08:09:34.526459",
+    "spec_sha": "fd4783ee07e8893a5089b5877e9ca503a3c022b4",
+    "timestamp": "2018-04-06T06:43:57.683441",
     "tripped_conditional": null,
     "username": "",
-    "uuid": "e294782e-25b3-46c7-a6c0-2d31a76fcf14",
+    "uuid": "60b9394d-a649-4868-910c-129745702c9f",
     "whiff_result": null
 }

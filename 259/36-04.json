@@ -1,6 +1,6 @@
 {
     "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)",
-    "aliquot": 3,
+    "aliquot": 4,
     "analysis_type": "unknown",
     "analyst_name": "",
     "comment": "L:1",
@@ -76,9 +76,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Hum. 2",
-                "pub_date": "2018-04-06T07:31:44",
+                "pub_date": "2018-04-06T07:38:01",
                 "title": "Base Station Hum.",
-                "value": 20.8852806091309
+                "value": 20.8790187835693
             },
             {
                 "device": "NOAA",
@@ -136,9 +136,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 2",
-                "pub_date": "2018-04-06T07:31:57",
+                "pub_date": "2018-04-06T07:36:47",
                 "title": "Base Station Temp.",
-                "value": 77.0165172576904
+                "value": 77.272110748291
             },
             {
                 "device": "RPiWeather",
@@ -150,7 +150,7 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 4",
-                "pub_date": "2018-04-06T07:32:22",
+                "pub_date": "2018-04-06T07:37:30",
                 "title": "EastReturn02",
                 "value": 67.775
             },
@@ -186,7 +186,7 @@
     },
     "experiment_queue_name": "Load1864",
     "extraction": "jan_co2_video.py",
-    "identifier": "25941",
+    "identifier": "25936",
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
@@ -231,13 +231,13 @@
     "repository_identifier": "Irradiation-NM-294",
     "sample": "FC-2",
     "source": {
-        "emission": 547.914,
-        "trap": 198.371
+        "emission": 546.941,
+        "trap": 197.7
     },
     "spec_sha": "741b26c1b864a2f1c3e50b727ad8e65e6b8749c3",
-    "timestamp": "2018-04-06T07:32:49.371465",
+    "timestamp": "2018-04-06T07:38:17.057574",
     "tripped_conditional": null,
     "username": "",
-    "uuid": "ec5c5d02-788b-4e15-a2dd-40bc33eb62b3",
+    "uuid": "274f5ef7-df7e-4a8c-827d-87d7f09230f4",
     "whiff_result": null
 }

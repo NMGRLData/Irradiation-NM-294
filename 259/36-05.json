@@ -1,9 +1,9 @@
 {
     "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)",
-    "aliquot": 3,
+    "aliquot": 5,
     "analysis_type": "unknown",
     "analyst_name": "",
-    "comment": "L:4",
+    "comment": "L:1",
     "commit": "b69489eb7fffaf43860640e368f037f0f325d830",
     "conditionals": [
         {
@@ -69,23 +69,23 @@
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Hum.",
-                "pub_date": "2018-04-06T08:32:40",
+                "pub_date": "2018-04-06T04:05:55",
                 "title": "iServer Hum.",
-                "value": 19.3
+                "value": 19.2
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Hum. 2",
-                "pub_date": "2018-04-06T08:34:26",
+                "pub_date": "2018-04-06T07:52:29",
                 "title": "Base Station Hum.",
-                "value": 21.5395526885986
+                "value": 21.3047657012939
             },
             {
                 "device": "NOAA",
                 "name": "Outside Humidity",
-                "pub_date": "2018-04-06T08:23:44",
+                "pub_date": "2018-04-06T07:43:48",
                 "title": "",
-                "value": 26.0
+                "value": 24.0
             }
         ],
         "lab_pneumatics": [
@@ -122,9 +122,9 @@
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2018-04-06T08:28:53",
+                "pub_date": "2018-04-06T06:23:40",
                 "title": "Coolant",
-                "value": 18.1
+                "value": 18.0
             },
             {
                 "device": "JanMonitor",
@@ -136,9 +136,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 2",
-                "pub_date": "2018-04-06T08:34:25",
+                "pub_date": "2018-04-06T07:52:11",
                 "title": "Base Station Temp.",
-                "value": 77.1762619018555
+                "value": 77.1123626708984
             },
             {
                 "device": "RPiWeather",
@@ -150,9 +150,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 4",
-                "pub_date": "2018-04-06T08:32:28",
+                "pub_date": "2018-04-06T07:51:11",
                 "title": "EastReturn02",
-                "value": 68.1116
+                "value": 67.775
             },
             {
                 "device": "RPiWeather",
@@ -164,21 +164,21 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 6",
-                "pub_date": "2018-04-06T08:28:10",
+                "pub_date": "2018-04-06T07:30:40",
                 "title": "SouthWall04",
-                "value": 68.1116
+                "value": 67.775
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 7",
-                "pub_date": "2018-04-06T08:16:43",
+                "pub_date": "2018-04-06T07:44:45",
                 "title": "SouthWindow05",
-                "value": 65.3
+                "value": 64.625
             },
             {
                 "device": "NOAA",
                 "name": "Outside Temp",
-                "pub_date": "2018-04-06T08:23:44",
+                "pub_date": "2018-04-06T07:43:48",
                 "title": "Outside Temp.",
                 "value": 55.0
             }
@@ -186,13 +186,13 @@
     },
     "experiment_queue_name": "Load1864",
     "extraction": "jan_co2_video.py",
-    "identifier": "25942",
+    "identifier": "25936",
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "NM-294",
     "irradiation_level": "L",
-    "irradiation_position": 4,
+    "irradiation_position": 1,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -231,13 +231,13 @@
     "repository_identifier": "Irradiation-NM-294",
     "sample": "FC-2",
     "source": {
-        "emission": 548.765,
-        "trap": 198.259
+        "emission": 548.644,
+        "trap": 198.483
     },
-    "spec_sha": "9e89f2ffd1fc39e94e98091cf1f94468c6b53290",
-    "timestamp": "2018-04-06T08:34:39.107360",
+    "spec_sha": "c1fe357b5a18226d3b50b5c8ee4acfa0b19727ae",
+    "timestamp": "2018-04-06T07:52:48.160156",
     "tripped_conditional": null,
     "username": "",
-    "uuid": "d8e15f21-22d9-4be3-a218-6cb04ca84822",
+    "uuid": "a986d979-50d0-4e82-a60c-0e1e121ee598",
     "whiff_result": null
 }

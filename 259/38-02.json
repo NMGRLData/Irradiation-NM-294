@@ -1,6 +1,6 @@
 {
     "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)",
-    "aliquot": 3,
+    "aliquot": 2,
     "analysis_type": "unknown",
     "analyst_name": "",
     "comment": "L:7",
@@ -69,16 +69,16 @@
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Hum.",
-                "pub_date": "2018-04-06T09:34:14",
+                "pub_date": "2018-04-06T09:04:31",
                 "title": "iServer Hum.",
-                "value": 19.3
+                "value": 19.6
             },
             {
                 "device": "RPiWeather",
                 "name": "Lab Hum. 2",
-                "pub_date": "2018-04-06T09:34:33",
+                "pub_date": "2018-04-06T09:29:43",
                 "title": "Base Station Hum.",
-                "value": 21.2108497619629
+                "value": 21.0167598724365
             },
             {
                 "device": "NOAA",
@@ -136,9 +136,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 2",
-                "pub_date": "2018-04-06T09:34:33",
+                "pub_date": "2018-04-06T09:28:48",
                 "title": "Base Station Temp.",
-                "value": 77.5277076721191
+                "value": 77.6555061340332
             },
             {
                 "device": "RPiWeather",
@@ -171,9 +171,9 @@
             {
                 "device": "RPiWeather",
                 "name": "Lab Temp. 7",
-                "pub_date": "2018-04-06T09:34:53",
+                "pub_date": "2018-04-06T09:23:29",
                 "title": "SouthWindow05",
-                "value": 66.65
+                "value": 66.3116
             },
             {
                 "device": "NOAA",
@@ -186,7 +186,7 @@
     },
     "experiment_queue_name": "Load1864",
     "extraction": "jan_co2_video.py",
-    "identifier": "25943",
+    "identifier": "25938",
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
@@ -231,13 +231,13 @@
     "repository_identifier": "Irradiation-NM-294",
     "sample": "FC-2",
     "source": {
-        "emission": 548.157,
-        "trap": 198.483
+        "emission": 548.522,
+        "trap": 198.371
     },
-    "spec_sha": "9e89f2ffd1fc39e94e98091cf1f94468c6b53290",
-    "timestamp": "2018-04-06T09:35:57.577446",
+    "spec_sha": "741b26c1b864a2f1c3e50b727ad8e65e6b8749c3",
+    "timestamp": "2018-04-06T09:30:26.699352",
     "tripped_conditional": null,
     "username": "",
-    "uuid": "a06781b9-3fa9-44d0-93a8-3005ca206404",
+    "uuid": "9e5d525b-183b-44db-98e6-db6b364e1ff2",
     "whiff_result": null
 }
