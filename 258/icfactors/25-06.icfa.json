@@ -1,10 +1,10 @@
 {
     "AX": {
-        "error": 0.00021473778893111448,
-        "fit": "Bracketing Interpolate",
+        "error": 0.0005907344251977784,
+        "fit": "Weighted Mean",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "c-02-J-3314",
                 "uuid": "488b9198-46ec-4872-bd21-483d7d5b2227"
             },
@@ -24,7 +24,7 @@
                 "uuid": "ba7131ec-3049-4d64-88eb-15edac94408d"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3318",
                 "uuid": "cd6e37ab-4d46-4006-af8f-97516ec63455"
             },
@@ -59,7 +59,7 @@
                 "uuid": "e2c58eb8-5508-4879-a787-68144e9c4bab"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3325",
                 "uuid": "91bccfdf-f29c-425c-96dc-7182d673e618"
             },
@@ -69,7 +69,7 @@
                 "uuid": "43d65a3c-bd3d-4a61-bf9c-a2d6995f1eeb"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3327",
                 "uuid": "7949a55d-e05b-45ec-aa20-21484793312c"
             },
@@ -89,28 +89,28 @@
                 "uuid": "82c7f621-b967-4ed3-9436-0df81af03d90"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3331",
                 "uuid": "69246e79-6bbb-44e6-9ada-518d8a66c19e"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3332",
                 "uuid": "1ace3157-4c31-43a4-9787-3f7a7c9087fc"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3333",
                 "uuid": "1a26aa57-b9c1-4103-bafc-bafdd3447424"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3334",
                 "uuid": "7d52dad5-eeae-4322-ad4b-759a1f7c7ad0"
             }
         ],
         "reviewed": true,
-        "value": 1.000048529167171
+        "value": 1.000330809854314
     },
     "CDD": {
         "error": 0.0021370865585342174,
